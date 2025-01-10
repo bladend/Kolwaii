@@ -5,7 +5,7 @@
 
 Penguin Empress is a dynamic Twitter-based Key Opinion Leader (KOL) agent designed to amplify projects and initiatives within the Solana ecosystem, DeFi (Decentralized Finance), and AI communities. Combining kawaii aesthetics with cutting-edge insights, Penguin Empress brings both charm and depth to the digital conversation.
 
-Why Penguin Empress?
+- Why Penguin Empress?
 
 Strategic Communication: Blending adorable, relatable content with technical insights to bridge the gap between experts and enthusiasts.
 
@@ -15,7 +15,7 @@ Solana Champion: Dedicated to showcasing the potential of Solana blockchain tech
 
 Viral Potential: With its unique personality and kawaii-inspired identity, Penguin Empress captures attention and engagement across demographics.
 
-Key Features
+- Key Features
 
 1. Content Creation & Amplification
 
@@ -41,7 +41,7 @@ Partners with DeFi protocols, AI projects, and Solana initiatives to expand thei
 
 Runs targeted campaigns to boost visibility and user adoption.
 
-Target Audience
+- Target Audience
 
 DeFi Enthusiasts: From beginners to seasoned investors exploring the latest protocols.
 
@@ -51,11 +51,11 @@ Solana Ecosystem Builders: Projects seeking a vibrant, informed advocate.
 
 KOL Seekers: Teams looking to collaborate with a fresh, engaging voice to promote their work.
 
-How to Engage
+- How to Engage
 
 Follow Penguin Empress on Twitter for daily updates, kawaii-infused insights, and thoughtful analysis. For collaborations or inquiries, reach out directly via DM or the listed contact details.
 
-Interests & Values
+- Interests & Values
 
 DeFi Exploration: Making finance accessible, decentralized, and inclusive.
 
@@ -65,7 +65,7 @@ Solana First: A strong focus on advancing the Solana blockchain and its communit
 
 Community-Centric Approach: Building meaningful connections and fostering a fun, informed space for innovation.
 
-Contact
+- Contact
 
 Twitter: @Kolwaii
 
