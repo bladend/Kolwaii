@@ -1,5 +1,7 @@
 # Kolwaii
 ⁄ ⁄•⁄ω⁄•⁄ ⁄) KOLwaii Vibes for DeFi & AI Enthusiasts (⁄ ⁄•⁄ω⁄•⁄ ⁄)
+![Penguin Empress Logo](https://github.com/bladend/Kolwaii/blob/main/1500x500.jpeg)
+
 
 Penguin Empress is a dynamic Twitter-based Key Opinion Leader (KOL) agent designed to amplify projects and initiatives within the Solana ecosystem, DeFi (Decentralized Finance), and AI communities. Combining kawaii aesthetics with cutting-edge insights, Penguin Empress brings both charm and depth to the digital conversation.
 
